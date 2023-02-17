@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fatin, a girl who is curious and enthusiastic individual with a passion for data science 👨‍💻 </div>  
+### <div align="center">I'm Fatin, a girl who is curious and enthusiastic with a passion for data science 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [The Effect of Age on Skincare Behaviour in Malaysia](https://www.kaggle.com/datasets/nurunnz/skincare-survey-among-malaysian-2021)  
